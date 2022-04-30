@@ -1,0 +1,60 @@
+﻿  Project6.cpp
+c:\users\nick\source\repos\project6\project6\project6.cpp(219): warning C4101: 'i': unreferenced local variable
+c:\users\nick\source\repos\project6\project6\project6.cpp(211): warning C4101: 'Uval': unreferenced local variable
+c:\users\nick\source\repos\project6\project6\project6.cpp(537): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\nick\source\repos\project6\project6\project6.cpp(539): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\nick\source\repos\project6\project6\project6.cpp(541): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\nick\source\repos\project6\project6\project6.cpp(543): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\nick\source\repos\project6\project6\project6.cpp(709): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\nick\source\repos\project6\project6\project6.cpp(863): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\nick\source\repos\project6\project6\project6.cpp(865): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\nick\source\repos\project6\project6\project6.cpp(867): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\nick\source\repos\project6\project6\project6.cpp(869): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\nick\source\repos\project6\project6\project6.cpp(921): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\nick\source\repos\project6\project6\project6.cpp(994): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\nick\source\repos\project6\project6\project6.cpp(1139): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\nick\source\repos\project6\project6\project6.cpp(1422): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\nick\source\repos\project6\project6\project6.cpp(1442): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\nick\source\repos\project6\project6\project6.cpp(1534): warning C4101: 'counter': unreferenced local variable
+c:\users\nick\source\repos\project6\project6\project6.cpp(1615): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\nick\source\repos\project6\project6\project6.cpp(1618): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\nick\source\repos\project6\project6\project6.cpp(1620): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\nick\source\repos\project6\project6\project6.cpp(1628): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\nick\source\repos\project6\project6\project6.cpp(1658): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\nick\source\repos\project6\project6\project6.cpp(1660): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\nick\source\repos\project6\project6\project6.cpp(1662): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\nick\source\repos\project6\project6\project6.cpp(1663): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\nick\source\repos\project6\project6\project6.cpp(1666): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\nick\source\repos\project6\project6\project6.cpp(1666): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\nick\source\repos\project6\project6\project6.cpp(1669): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\nick\source\repos\project6\project6\project6.cpp(1669): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\nick\source\repos\project6\project6\project6.cpp(1693): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\nick\source\repos\project6\project6\project6.cpp(1695): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\nick\source\repos\project6\project6\project6.cpp(1697): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\nick\source\repos\project6\project6\project6.cpp(1698): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\nick\source\repos\project6\project6\project6.cpp(1701): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\nick\source\repos\project6\project6\project6.cpp(1701): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\nick\source\repos\project6\project6\project6.cpp(1704): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\nick\source\repos\project6\project6\project6.cpp(1704): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\nick\source\repos\project6\project6\project6.cpp(1723): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\nick\source\repos\project6\project6\project6.cpp(1725): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\nick\source\repos\project6\project6\project6.cpp(1727): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\nick\source\repos\project6\project6\project6.cpp(1729): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\nick\source\repos\project6\project6\project6.cpp(1764): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\nick\source\repos\project6\project6\project6.cpp(1766): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\nick\source\repos\project6\project6\project6.cpp(1768): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\nick\source\repos\project6\project6\project6.cpp(1770): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\nick\source\repos\project6\project6\project6.cpp(1830): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\nick\source\repos\project6\project6\project6.cpp(1846): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\nick\source\repos\project6\project6\project6.cpp(1847): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\nick\source\repos\project6\project6\project6.cpp(1848): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\nick\source\repos\project6\project6\project6.cpp(1849): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\nick\source\repos\project6\project6\project6.cpp(1852): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\nick\source\repos\project6\project6\project6.cpp(1852): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\nick\source\repos\project6\project6\project6.cpp(1855): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\nick\source\repos\project6\project6\project6.cpp(1855): warning C4305: '-=': truncation from 'double' to 'float'
+soil2-debug.lib(etc1_utils.obj) : warning LNK4099: PDB 'soil2-debug.pdb' was not found with 'soil2-debug.lib(etc1_utils.obj)' or at 'C:\Users\Nick\source\repos\Project6\Debug\soil2-debug.pdb'; linking object as if no debug info
+soil2-debug.lib(image_DXT.obj) : warning LNK4099: PDB 'soil2-debug.pdb' was not found with 'soil2-debug.lib(image_DXT.obj)' or at 'C:\Users\Nick\source\repos\Project6\Debug\soil2-debug.pdb'; linking object as if no debug info
+soil2-debug.lib(image_helper.obj) : warning LNK4099: PDB 'soil2-debug.pdb' was not found with 'soil2-debug.lib(image_helper.obj)' or at 'C:\Users\Nick\source\repos\Project6\Debug\soil2-debug.pdb'; linking object as if no debug info
+soil2-debug.lib(SOIL2.obj) : warning LNK4099: PDB 'soil2-debug.pdb' was not found with 'soil2-debug.lib(SOIL2.obj)' or at 'C:\Users\Nick\source\repos\Project6\Debug\soil2-debug.pdb'; linking object as if no debug info
+  Project6.vcxproj -> C:\Users\Nick\source\repos\Project6\Debug\Project6.exe

@@ -1,0 +1,6 @@
+﻿  Project5.cpp
+c:\users\nmw20\source\repos\project5\project5\project5.cpp(347): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\nmw20\source\repos\project5\project5\project5.cpp(348): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\nmw20\source\repos\project5\project5\project5.cpp(359): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\nmw20\source\repos\project5\project5\project5.cpp(360): warning C4305: '+=': truncation from 'double' to 'float'
+  Project5.vcxproj -> C:\Users\nmw20\source\repos\Project5\Debug\Project5.exe

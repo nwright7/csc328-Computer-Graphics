@@ -1,0 +1,11 @@
+﻿  Project3.cpp
+c:\users\nick\source\repos\project3\project3\project3.cpp(98): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\nick\source\repos\project3\project3\project3.cpp(99): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\nick\source\repos\project3\project3\project3.cpp(100): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\nick\source\repos\project3\project3\project3.cpp(123): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\nick\source\repos\project3\project3\project3.cpp(124): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\nick\source\repos\project3\project3\project3.cpp(193): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\nick\source\repos\project3\project3\project3.cpp(204): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\nick\source\repos\project3\project3\project3.cpp(215): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\nick\source\repos\project3\project3\project3.cpp(227): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Project3.vcxproj -> C:\Users\Nick\source\repos\Project3\Debug\Project3.exe

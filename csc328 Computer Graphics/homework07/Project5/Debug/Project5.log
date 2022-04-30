@@ -1,0 +1,14 @@
+﻿  Project5.cpp
+c:\users\nick\source\repos\project5\project5\project5.cpp(158): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\nick\source\repos\project5\project5\project5.cpp(96): warning C4101: 'y1': unreferenced local variable
+c:\users\nick\source\repos\project5\project5\project5.cpp(96): warning C4101: 'x1': unreferenced local variable
+c:\users\nick\source\repos\project5\project5\project5.cpp(94): warning C4101: 'slopeX': unreferenced local variable
+c:\users\nick\source\repos\project5\project5\project5.cpp(94): warning C4101: 'slopeY': unreferenced local variable
+c:\users\nick\source\repos\project5\project5\project5.cpp(297): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\nick\source\repos\project5\project5\project5.cpp(299): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\nick\source\repos\project5\project5\project5.cpp(301): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\nick\source\repos\project5\project5\project5.cpp(303): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\nick\source\repos\project5\project5\project5.cpp(451): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\nick\source\repos\project5\project5\project5.cpp(650): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\nick\source\repos\project5\project5\project5.cpp(668): warning C4101: 'counter': unreferenced local variable
+  Project5.vcxproj -> C:\Users\Nick\source\repos\Project5\Debug\Project5.exe

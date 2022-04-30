@@ -1,0 +1,11 @@
+﻿  Project2.cpp
+c:\users\nmw20\source\repos\project2\project2\project2.cpp(176): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\nmw20\source\repos\project2\project2\project2.cpp(214): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\nmw20\source\repos\project2\project2\project2.cpp(215): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\nmw20\source\repos\project2\project2\project2.cpp(282): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\nmw20\source\repos\project2\project2\project2.cpp(289): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\nmw20\source\repos\project2\project2\project2.cpp(297): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\nmw20\source\repos\project2\project2\project2.cpp(306): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\nmw20\source\repos\project2\project2\project2.cpp(317): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\nmw20\source\repos\project2\project2\project2.cpp(325): warning C4305: '-=': truncation from 'double' to 'float'
+  Project2.vcxproj -> C:\Users\nmw20\source\repos\Project2\Debug\Project2.exe

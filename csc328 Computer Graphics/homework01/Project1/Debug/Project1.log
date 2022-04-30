@@ -1,0 +1,4 @@
+﻿  Project1.cpp
+c:\users\nmw20\source\repos\project1\project1\project1.cpp(50): warning C4101: 'y': unreferenced local variable
+c:\users\nmw20\source\repos\project1\project1\project1.cpp(50): warning C4101: 'x': unreferenced local variable
+  Project1.vcxproj -> C:\Users\nmw20\source\repos\Project1\Debug\Project1.exe
